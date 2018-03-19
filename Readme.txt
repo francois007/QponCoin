@@ -2,7 +2,7 @@ What is QponCoin?
 
 QponCoin is a new digital cryptocurrency that is created to guarantee instant payments to anyone, anywhere in the world with no transaction fees. QponCoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. 
 
-For more information, as well as an immediately useable, see http://www.qponcoin.com/
+For more information, as well as an immediately useable, see http://www.qponcoin.com
 
 ---------------------------
 How to work with Windows Desktop QT Wallet :
